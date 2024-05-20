@@ -4,6 +4,21 @@
     {
         static void Main(string[] args)
         {
+            /* Uppgift 1
+            Klasser:
+            - anställd
+
+            Uppgift 2
+            Attribut:
+            - namn
+            - lön
+            Metoder:
+            - att lägga till en anställd till registret
+            - att visa hela registret 
+            
+            Men jag kan inte skriva klasser, attributer och metoder än. Därför är mitt program enkelt.
+            */
+
             Console.WriteLine("Hello! How many employees do you have? ");
             int numberOfEmployees = int.Parse(Console.ReadLine());
 
